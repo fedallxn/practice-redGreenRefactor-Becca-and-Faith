@@ -18,4 +18,4 @@ function countVowels (string) {
 
 console.log(countVowels('hello'));
 
-module.exports = countVowels;
+module.exports = {countVowels};
