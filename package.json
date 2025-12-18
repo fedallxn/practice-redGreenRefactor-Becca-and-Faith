@@ -1,0 +1,23 @@
+{
+  "name": "practice-redgreenrefactor-becca-and-faith",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greenPhase.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedallxn/practice-redGreenRefactor-Becca-and-Faith.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedallxn/practice-redGreenRefactor-Becca-and-Faith/issues"
+  },
+  "homepage": "https://github.com/fedallxn/practice-redGreenRefactor-Becca-and-Faith#readme",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
